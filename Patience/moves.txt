@@ -1,0 +1,29 @@
+0–12 → Clubs
+13–25 → Diamonds
+26–38 → Hearts
+39–51 → Spades
+
+Tableau
+
+[
+  { '1': [12, 25] },
+  { '2': [13, 26, 39] },
+  { '3': ....},
+.
+.
+.
+]
+
+
+Foundations = [],
+
+Talon = [],
+
+Can only play one of 3 6 9...
+
+
+
+Could be interesting to search many games to see which moves are likely to be the best....
+
+
+
