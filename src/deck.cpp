@@ -1,4 +1,4 @@
-#include "deck.hpp"
+#include <solitaire/deck.hpp>
 
 #include <random>
 #include <algorithm>

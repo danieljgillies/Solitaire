@@ -1,4 +1,4 @@
-#include "pile.hpp"
+#include <solitaire/pile.hpp>
 #include <iostream>
 
 

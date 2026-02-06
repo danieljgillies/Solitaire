@@ -4,11 +4,11 @@
 
 
 
-#include "types.hpp"
-#include "deck.hpp"
-#include "gamestate.hpp"
-#include "io.hpp"
-#include "commands.hpp"
+#include <solitaire/types.hpp>
+#include <solitaire/deck.hpp>
+#include <solitaire/gamestate.hpp>
+#include <solitaire/io.hpp>
+#include <solitaire/commands.hpp>
 
 
 int main() {

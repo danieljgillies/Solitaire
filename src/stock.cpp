@@ -1,5 +1,5 @@
-#include "stock.hpp"
-#include "types.hpp"
+#include <solitaire/stock.hpp>
+#include <solitaire/types.hpp>
 
 #include <iostream>
 

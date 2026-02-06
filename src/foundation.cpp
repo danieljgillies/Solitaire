@@ -1,4 +1,4 @@
-#include "foundation.hpp"
+#include <solitaire/foundation.hpp>
 
 #include <iostream>
 

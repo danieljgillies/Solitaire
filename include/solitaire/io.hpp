@@ -5,7 +5,7 @@
 #include <string>
 #include <sstream>
 
-#include "commands.hpp"
+#include <solitaire/commands.hpp>
 
 
 

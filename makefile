@@ -1,7 +1,9 @@
 SRCS=$(wildcard src/*.cpp)
 NAME=solitaire
 
+CXXFLAGS := -Iinclude
+
 all: 
-	g++ -Og $(SRCS) -o $(NAME)
+	g++ -Og $(CXXFLAGS) $(SRCS) -o $(NAME)
 release:
-	g++ -Ofast $(SRCS) -static -o $(NAME)
+	g++ -Ofast $(CXXFLAGS) $(SRCS) -static -o $(NAME)

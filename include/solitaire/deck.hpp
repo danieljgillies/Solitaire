@@ -1,7 +1,7 @@
 #ifndef DECK_HPP
 #define DECK_HPP
 
-#include "types.hpp"
+#include <solitaire/types.hpp>
 
 
 struct Deck {

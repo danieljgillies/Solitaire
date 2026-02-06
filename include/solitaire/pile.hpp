@@ -1,7 +1,7 @@
 #ifndef PILE_HPP
 #define PILE_HPP
 
-#include "types.hpp"
+#include <solitaire/types.hpp>
 
 struct Pile {
     int pile[MAX_PILE_SIZE];

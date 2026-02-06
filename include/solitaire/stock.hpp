@@ -1,7 +1,7 @@
 #ifndef STOCK_HPP
 #define STOCK_HPP
 
-#include "types.hpp"
+#include <solitaire/types.hpp>
 
 //When a card leaves the stock we just say that it is now no card at that position. 
 struct Stock {

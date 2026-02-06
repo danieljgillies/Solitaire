@@ -1,4 +1,4 @@
-#include "types.hpp"
+#include <solitaire/types.hpp>
 
 static std::string suitToString(int suit) {
     if (suit < providedSuitCount) return suitNames[suit];

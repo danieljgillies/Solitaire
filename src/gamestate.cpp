@@ -1,10 +1,9 @@
-#include "gamestate.hpp"
-
 #include <iostream>
 #include <random>
 #include <algorithm>
-#include "deck.hpp"
-#include "types.hpp"
+#include <solitaire/gamestate.hpp>
+#include <solitaire/deck.hpp>
+#include <solitaire/types.hpp>
 
 void Gamestate::printGameState(bool hidden) {
     std::cout << std::endl;

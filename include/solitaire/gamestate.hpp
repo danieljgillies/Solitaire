@@ -1,10 +1,10 @@
 #ifndef GAMESTATE_HPP
 #define GAMESTATE_HPP
 
-#include "types.hpp"
-#include "pile.hpp"
-#include "stock.hpp"
-#include "foundation.hpp"
+#include <solitaire/types.hpp>
+#include <solitaire/pile.hpp>
+#include <solitaire/stock.hpp>
+#include <solitaire/foundation.hpp>
 
 
 struct Gamestate {

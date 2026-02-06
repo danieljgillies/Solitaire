@@ -1,7 +1,7 @@
 #ifndef FOUNDATION_HPP
 #define FOUNDATION_HPP
 
-#include "types.hpp"
+#include <solitaire/types.hpp>
 
 
 //This creates an object for each of the four foundations where the cards are placed at the end.
