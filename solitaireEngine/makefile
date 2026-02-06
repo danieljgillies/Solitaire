@@ -1,5 +1,5 @@
 SRCS=$(wildcard src/*.cpp)
-NAME=solitaire
+NAME=bin/solitaire
 
 CXXFLAGS := -Iinclude
 
